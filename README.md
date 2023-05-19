@@ -6,15 +6,15 @@ The goal of this project is to train an unsupervised machine learning model that
 For the first step of the project, it was made available a visual and user friendly interface on Streamlit to receive inputs from real users to evaluate the profiles the model is recommending.
 
 ## Methods
-Python
-Visualization
-NLP
-Recommendation System
-Machine Learning
+<li>Python</li>
+<li>Visualization</li>
+<li>NLP</li>
+<li>Recommendation System</li>
+<li>Machine Learning</li>
 
 ## Technologis
-Python (Pandas, Numpy, Sklearn)
-Streamlit
+<li>Python (Pandas, Numpy, Sklearn)</li>
+<li>Streamlit</li>
 
 ## Project Description
 In a world ditacted by image and looks, imagine you can match people basing on charateristics, interets, beliefs and likes? In other words, imagine you can match people without adding the pyhisical apparence to the math. This idea has been gaining attention after reality shows like "Love is Blind", created and streamed by Netflix, made huge success across the globe. This model aims to begin to understand what people look for in a potential partner. Then, we may have enough information to train a matchmakerrecommendation model.  
