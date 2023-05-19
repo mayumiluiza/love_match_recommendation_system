@@ -23,7 +23,7 @@ In a world ditacted by image and looks, imagine you can match people basing on c
 This dataset was created with the use of a python script that pulled the data from public profiles on www.okcupid.com from June 2012. It has an n=59946, which includes people within a 25 mile radius of San Francisco, who were online in the last year, with at least one profile picture.
 
 ## Acknowledgements
-This dataset is from the article: "OkCupid Data for Introductory Statistics and Data Science Courses" of the authors Kim, Albert and Escobedo-Land, Adriana published on the Journal of Statistics Education, volume 23, month 07, year 2015, numer 2 (doi = 10.1080/10691898.2015.11889737) and shared in Kaggle.
+This dataset is from the article: "OkCupid Data for Introductory Statistics and Data Science Courses" of the authors Kim, Albert and Escobedo-Land, Adriana published on the Journal of Statistics Education, volume 23, month 07, year 2015, number 2 (doi = 10.1080/10691898.2015.11889737) and shared in Kaggle.
 
 ## Links: 
 *   https://jse.amstat.org/v23n2/abstracts.html
